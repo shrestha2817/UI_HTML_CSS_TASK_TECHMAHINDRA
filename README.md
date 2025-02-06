@@ -1,11 +1,6 @@
-# UI_HTML_CSS_TASK_TECHMAHINDRA
+# design are given in design folder
+![screen shot](./design/desktop-design.jpg "screen shot")
 
-DESKTOP VIEW:
+# mobile ui
+![screen shot](./design/mobile-design.jpg "screen shot")
 
-![desktop-design](https://github.com/user-attachments/assets/b6b431e9-6efc-4818-a315-0666b8c10224)
-
------------------------------------------------------------------------------------------------------
-
-MOBILE VIEW:
-
-![mobile-design](https://github.com/user-attachments/assets/24938523-e9da-41e9-a913-5e873ddc3d3f)
